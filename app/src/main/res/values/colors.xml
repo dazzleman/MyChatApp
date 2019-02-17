@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white_100">#ffffff</color>
+
+    <color name="black_100">#000000</color>
+
+    <color name="color_bg_message_out">#c8e6c9</color>
+    <color name="color_time_message_out">#e8f5e9</color>
+    <color name="color_author_message_out">#64b5f6</color>
+
+    <color name="initials_bg_color_green">#A3D193</color>
+    <color name="initials_bg_color_blue">#6BAEE1</color>
+    <color name="initials_bg_color_red">#F49691</color>
+    <color name="initials_bg_color_light_blue">#76CDD2</color>
+    <color name="initials_bg_color_orange">#F7B36B</color>
+    <color name="initials_bg_color_pink">#F081C5</color>
+
+</resources>

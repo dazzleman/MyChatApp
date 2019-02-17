@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+
+    <string name="enter_message_tint">Введите сообщение</string>
+
+    <string name="account_count_hint">%d в сети</string>
+
+    <string name="network_state_hint">соединение...</string>
+</resources>
